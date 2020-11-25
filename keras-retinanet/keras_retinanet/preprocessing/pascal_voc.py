@@ -28,34 +28,9 @@ except ImportError:
     import xml.etree.ElementTree as ET
 
 voc_classes = {
-    'adidas_1'    : 0,
-    'adidas_2'    : 1,
-    'adidas_text' : 2,
-    'tommy_ext'   : 3,
-    'tommy_flag'  : 4,
-    'lv_text'     : 5,
-    'lvc'         : 6,
-    'hermes'      : 7,
-    'hermesl'     : 8,
-    'hermes_h'    : 9,
-    'gucci_o'     : 10,
-    'gucci'       : 11,
-    'gucci_text'  : 12,
-    'fendi'       : 13,
-    'fendi_text'  : 14,
-    'mk'          : 15,
-    'mk_text'     : 16,
-    'rf'          : 17,
-    'rf_text'     : 18,
-    'ck'          : 19,
-    'ck_text'     : 20,
-    'ck_old'      : 21,
-    'ck_performance'    : 22,
-    'chanel'      : 23,
-    'chanel_text' : 24,
-    'dior'        : 25,
-    'jadior'      : 26,
-    'lv'          : 27
+    'nike'    : 0,
+    'under_armour'    : 1,
+    'adidas' : 2
        
 }
 
