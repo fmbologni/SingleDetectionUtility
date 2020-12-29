@@ -31,6 +31,7 @@ voc_classes = {
     'nike'    : 0,
     'under_armour'    : 1,
     'adidas' : 2
+    'Nan' : 3
        
 }
 
