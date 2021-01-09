@@ -29,9 +29,28 @@ except ImportError:
 
 voc_classes = {
     'nike'    : 0,
-    'under armour'    : 1,
-    'adidas' : 2
-       
+    'under_armour'    : 1,
+    'adidas' : 2,
+    'person' : 3,
+    'bird' : 4,
+    'car' : 5,
+    'train' : 6,
+    'cat' : 7,
+    'aeroplane' : 8,
+    'cow' : 9,
+    'dog' : 10,
+    'bottle' : 11,
+    'diningtable' : 12,
+    'chair' : 13,
+    'sofa' : 14,
+    'tvmonitor' : 15,
+    'boat' : 16,
+    'bus' : 17,
+    'motorbike' : 18,
+    'pottedplant' : 19,
+    'bicycle' : 20,
+    'sheep' : 21,
+    'horse' : 22       
 }
 
 
